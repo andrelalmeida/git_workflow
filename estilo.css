@@ -89,7 +89,7 @@ body{
 	margin-top: 10px;
 }
 
-/*.form_contact{
+.form_contact{
 	color: #f0efe7;
 	padding: 40px;
 	margin: 40px;
@@ -118,7 +118,7 @@ body{
 
 .form_contact label, .form_contact input, .form_contact textarea{
 	width: 100%;
-}*/
+}
 
 .main_footer{
 	text-align: center;
