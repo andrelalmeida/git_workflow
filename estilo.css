@@ -1,5 +1,9 @@
 *{
+<<<<<<< HEAD
 	padding: 80; //alterei a primeira linha para 80 remotamente
+=======
+	padding: 70; //alterei a primeira linha para 70 remotamente
+>>>>>>> bcdaf04bb9ae5eb388720afabbe404ffee7ae1e4
 	margin: 0;
 	list-style: none;
 	font-family: 'Ubuntu', sans-serif;
